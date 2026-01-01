@@ -1,9 +1,8 @@
-# Episode #{{Ep. #}}: {{Ep. Title}}
-#### Case #{{Case #}}
+# Episode #{{Ep Num}}: {{Ep Title}}
+#### Case #{{Case}} ({{Date}})
 
 ---
-## Statement of {{Statement Giver}} regarding {{Topic}}.
-##### Original statement given {{Date}}.
+### Statement of {{Statement Giver}} regarding {{Topic}}.
 ##### Current status of {{Statement Giver}}: {{Status}}
 
 ---
@@ -11,7 +10,7 @@
 ## Locations:
 
 {{Locations}}
-
+	
 ## Other Individuals:
 
 {{Other Individuals}}
